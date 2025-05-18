@@ -258,6 +258,6 @@ Publish the website in the LocalHost.
 
 ```
 # OUTPUT:
-![alt text](finalpro/proapp/static/out.png)
+![image](https://github.com/user-attachments/assets/c759686d-42ef-41e4-b174-ceafeee10ec2)
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
